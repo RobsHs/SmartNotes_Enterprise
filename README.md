@@ -25,7 +25,3 @@ python cli.py
 - models.py
 - schemas.py
 - crud.py
-# SmartNotes_Enterprise
-# SmartNotes_Enterprise
-# SmartNotes_Enterprise
-# SmartNotes_Enterprise
